@@ -366,7 +366,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 
 .btn-newsletter {
   background: var(--eerie-black);
-  color: var(--white);
+  color: var(--eerie-black);
   font-size: var(--fs-7);
   font-weight: var(--weight-600);
   text-transform: uppercase;
